@@ -1,5 +1,5 @@
 
-
+// answers first, then modify master
 
 // create a file in your user HOME directory named 'foobar.json'
 // write the following object in string form and then read the file stats

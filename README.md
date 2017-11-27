@@ -10,3 +10,8 @@ Extra credit:
 
  4. Write file and read file stats ( index.js ) 
  5. Implement Array.prototype methods ( lib/implement-map-filter.js )
+ 
+ 
+
+ 
+ * note - ask Alex before modifying this project because there is a trick to it
